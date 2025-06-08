@@ -53,7 +53,7 @@ class Program
 
     static void Main()
     {
-        int[] population = new int[] { 0, 0, 5 };
+        int[] population = new int[] { 8, 1, 9 };
         int targetColor = 2; 
 
         int result = MinMeetings(population, targetColor);
